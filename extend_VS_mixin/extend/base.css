@@ -1,0 +1,12 @@
+.error {
+  background-color: #fee;
+}
+
+.error:hover, .error--serious {
+  background-color: #bbb;
+}
+
+.error--serious {
+  border-width: 3px;
+}
+/*# sourceMappingURL=base.css.map */
